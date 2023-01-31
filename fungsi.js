@@ -10,5 +10,6 @@ console.log(add(1, 2));
 // git add . (jika tidak menggunakan titik (.), bisa langsung menyertakan nama file)
 // git commit -m ("")
 // git log = untuk melihat perjalanan history
-
+// git restore = untuk membatalkan perubahan
+// git restore . = untuk membatalkan perubahan semuanya
 // ? Belajar GIT
