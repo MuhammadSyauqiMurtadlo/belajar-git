@@ -9,5 +9,6 @@ console.log(add(1, 2));
 // git status
 // git add . (jika tidak menggunakan titik (.), bisa langsung menyertakan nama file)
 // git commit -m ("")
+// git log = untuk melihat perjalanan history
 
 // ? Belajar GIT

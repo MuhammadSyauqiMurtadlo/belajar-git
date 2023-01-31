@@ -1,1 +1,1 @@
-console.log("ini file test 1");
+console.log("ini file test satu");
