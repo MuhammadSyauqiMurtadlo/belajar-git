@@ -9,6 +9,9 @@ console.log(subtract(5, 2));
 const multiply = (a, b) => a * b;
 console.log(multiply(3, 2));
 
+const divide = (a, b) => a / b;
+console.log(divide(3, 2));
+
 // ! SYNTAX PENTING UNTUK DIGUNAKAN DI TERMINAL :
 // Node (nama file)
 // git diff = digunakan untuk mencari perbedaan dari versi sebelumnya
