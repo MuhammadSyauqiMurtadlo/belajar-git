@@ -9,9 +9,6 @@ console.log(subtract(5, 2));
 const multiply = (a, b) => a * b;
 console.log(multiply(3, 2));
 
-const divide = (a, b) => a / b;
-console.log(divide(3, 2));
-
 // ! SYNTAX PENTING UNTUK DIGUNAKAN DI TERMINAL :
 // Node (nama file)
 // git diff = digunakan untuk mencari perbedaan dari versi sebelumnya
@@ -28,5 +25,6 @@ console.log(divide(3, 2));
 // git checkout -b (nama branch)
 // git checkout (nama branch)
 // git merge (nama branch) = untuk menggabungkan branch
+// git revert (nomer commit) = digunakan untuk me-revisi commit sebelumnya tanpa merusak commit setelahnya
 
 // ? Belajar GIT
