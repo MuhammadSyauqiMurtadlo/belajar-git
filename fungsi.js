@@ -22,11 +22,11 @@ console.log(multiply(3, 2));
 // git reset = untuk mengembalikan file dari staged changes ke working directory secara keselirihan
 // git reset --hard (nomer commit) = untuk kembali ke commit sebelumnya
 
-// git checkout -b (nama branch)
+// git checkout -b (nama branch), terus untuk kembali ke branch master, bisa ketikkan "git checkout master "
 // git checkout (nama branch)
 // git merge (nama branch) = untuk menggabungkan branch
 // git revert (nomer commit) = digunakan untuk me-revisi commit sebelumnya tanpa merusak commit setelahnya
-
+// git push origin master = digunakan untuk kembali ke branch master (branch yang utama)
 // ? Belajar GIT
 
 console.log(add(5, 5));
