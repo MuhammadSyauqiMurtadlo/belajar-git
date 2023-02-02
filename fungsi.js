@@ -28,3 +28,5 @@ console.log(multiply(3, 2));
 // git revert (nomer commit) = digunakan untuk me-revisi commit sebelumnya tanpa merusak commit setelahnya
 
 // ? Belajar GIT
+
+console.log(add(5, 5));
