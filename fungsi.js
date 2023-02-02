@@ -30,3 +30,6 @@ console.log(multiply(3, 2));
 // ? Belajar GIT
 
 console.log(add(5, 5));
+
+const mathsin = (Number) => math.sin(number);
+console.log(mathsin(10));
